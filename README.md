@@ -14,13 +14,13 @@ This project is a web-based **Sentiment Analysis Dashboard** built with **Python
 
 ## 🚀 Features
 
-- 🔍 **Multi-class Sentiment Classification** (Positive, Negative, Neutral)
-- 📈 **Confidence Score Visualization**
-- 🧠 **Keyword Extraction** for each input text
-- 📊 **Bar Chart of Sentiment Distribution**
-- 📋 **Batch Text Input**
-- 💾 **Export Results** to CSV
-- 🤖 **Powered by Transformers (Hugging Face)**
+- 🔍 Multi-class Sentiment Classification** (Positive, Negative, Neutral)
+- 📈 Confidence Score Visualization**
+- 🧠 Keyword Extraction** for each input text
+- 📊 Bar Chart of Sentiment Distribution**
+- 📋 Batch Text Input**
+- 💾 Export Results** to CSV
+- 🤖 Powered by Transformers (Hugging Face)**
 
 ---
 
