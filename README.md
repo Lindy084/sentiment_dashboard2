@@ -1,7 +1,4 @@
-## 🚀 Live Demo
-
-[Click here to use the Sentiment Analysis Dashboard](https://sentimentdashboard2-48pmkpdk6zxouxnqyfsttg.streamlit.app/)
-Here’s a complete and professional `README.md` for your **Sentiment Dashboard** project hosted at [Lindy084/sentiment\_dashboard2](https://github.com/Lindy084/sentiment_dashboard2.git):
+## 🚀 Live Demo: (https://sentimentdashboard2-48pmkpdk6zxouxnqyfsttg.streamlit.app/)
 
 ---
 
